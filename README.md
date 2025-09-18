@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1698" height="774" alt="10" src="https://github.com/user-attachments/assets/c4040515-cc56-4d15-80fa-d1d6fc4d786b" />
 
-## 13. Scroll down to the "Event JSON" section and type in a name/value pair that the Golang program will accept as a properly formatted input.
+## 13. Scroll down to the "Event JSON" section, type in a name/value pair that the Golang program will accept as a properly formatted input, then click the Test icon.
 
 <img width="1698" height="774" alt="13" src="https://github.com/user-attachments/assets/161a12b1-1532-4bfa-a70f-acab960ac8f5" />
 
