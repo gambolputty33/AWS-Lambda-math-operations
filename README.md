@@ -29,19 +29,23 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 8. Create a project directory in Visual Studio Code and copy the files from this repository into it.
 
-## 9. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the Golang program.
+## 9. Use the commands from the notes.txt file to prepare a Zip file for Terraform.
+
+## 10. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the Golang program.
 
 <img width="1239" height="244" alt="08" src="https://github.com/user-attachments/assets/6f0ec700-9154-41d8-9a11-fce5df2157a2" />
 
-## 10. Go to the Functions section of AWS Lambda to find the newly created Golang function.
+## 11. Go to the Functions section of AWS Lambda to find the newly created Golang function.
 
 <img width="1159" height="584" alt="09 " src="https://github.com/user-attachments/assets/03816ec8-1f52-4f08-bb13-e19b2baeaa75" />
 
-## 11. Click on the Test icon.
+## 12. Click on the Test icon.
 
 <img width="1698" height="774" alt="10" src="https://github.com/user-attachments/assets/c4040515-cc56-4d15-80fa-d1d6fc4d786b" />
 
+## 13. Scroll down to the "Event JSON" section and type in a name/value pair that the Golang program will accept as a properly formatted input.
 
+<img width="1698" height="774" alt="13" src="https://github.com/user-attachments/assets/161a12b1-1532-4bfa-a70f-acab960ac8f5" />
 
 
 
