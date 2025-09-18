@@ -31,8 +31,4 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1239" height="244" alt="08" src="https://github.com/user-attachments/assets/6f0ec700-9154-41d8-9a11-fce5df2157a2" />
 
-
-
-<img width="1272" height="364" alt="07 " src="https://github.com/user-attachments/assets/6b494498-4ba0-46cb-b9fa-4038ec9ca920" />
-
-## 8. Setup a directory and copy into it the Terraform files found in this repository.
+to it the Terraform files found in this repository.
