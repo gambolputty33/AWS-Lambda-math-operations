@@ -35,6 +35,15 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1159" height="584" alt="09 " src="https://github.com/user-attachments/assets/03816ec8-1f52-4f08-bb13-e19b2baeaa75" />
 
+## 10. Click on the Test icon.
+
+<img width="1698" height="774" alt="10" src="https://github.com/user-attachments/assets/c4040515-cc56-4d15-80fa-d1d6fc4d786b" />
+
+
+
+
+
+
 
 
 
