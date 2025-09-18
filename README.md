@@ -27,15 +27,17 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 7. Paste the AWS environment variables into your terminal window in Visual Studio Code.
 
-## 8. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the Golang program.
+## 8. Create a project directory in Visual Studio Code and copy the files from this repository into it.
+
+## 9. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the Golang program.
 
 <img width="1239" height="244" alt="08" src="https://github.com/user-attachments/assets/6f0ec700-9154-41d8-9a11-fce5df2157a2" />
 
-## 9. Go to the Functions section of AWS Lambda to find the newly created Golang function.
+## 10. Go to the Functions section of AWS Lambda to find the newly created Golang function.
 
 <img width="1159" height="584" alt="09 " src="https://github.com/user-attachments/assets/03816ec8-1f52-4f08-bb13-e19b2baeaa75" />
 
-## 10. Click on the Test icon.
+## 11. Click on the Test icon.
 
 <img width="1698" height="774" alt="10" src="https://github.com/user-attachments/assets/c4040515-cc56-4d15-80fa-d1d6fc4d786b" />
 
