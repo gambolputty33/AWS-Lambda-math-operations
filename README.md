@@ -47,6 +47,10 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1698" height="774" alt="13" src="https://github.com/user-attachments/assets/161a12b1-1532-4bfa-a70f-acab960ac8f5" />
 
+## 14.  The test results will show four math opertions on the two inputted numbers outputted in a JSON format.  Click on the "logs" link.  This will take you to Cloudwatch.
+
+<img width="691" height="363" alt="14" src="https://github.com/user-attachments/assets/9582915d-23e3-41ea-92d7-6b0d3d4b7fab" />
+
 
 
 
