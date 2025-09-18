@@ -33,8 +33,7 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 9. Go to the Functions section of AWS Lambda to find the newly created Golang function.
 
-<img width="231" height="239" alt="09" src="https://github.com/user-attachments/assets/7d55ec1b-2241-403a-a0bd-0aa78beb636b" />
-
+<img width="1159" height="584" alt="09 " src="https://github.com/user-attachments/assets/03816ec8-1f52-4f08-bb13-e19b2baeaa75" />
 
 
 
