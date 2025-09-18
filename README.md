@@ -31,4 +31,11 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1239" height="244" alt="08" src="https://github.com/user-attachments/assets/6f0ec700-9154-41d8-9a11-fce5df2157a2" />
 
-to it the Terraform files found in this repository.
+
+
+
+
+
+
+
+
