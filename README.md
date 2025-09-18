@@ -47,16 +47,18 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1698" height="774" alt="13" src="https://github.com/user-attachments/assets/161a12b1-1532-4bfa-a70f-acab960ac8f5" />
 
-## 14.  The test results will show four math opertions on the two inputted numbers outputted in a JSON format.  Click on the "logs" link.  This will take you to Cloudwatch.
+## 14. The test results will show four math opertions on the two inputted numbers outputted in a JSON format.  Click on the "logs" link.  This will take you to Cloudwatch.
 
 <img width="691" height="363" alt="14" src="https://github.com/user-attachments/assets/9582915d-23e3-41ea-92d7-6b0d3d4b7fab" />
 
+## 15. In Cloudwatch, make a note of all of the log entries shown.
 
+<img width="1802" height="450" alt="15" src="https://github.com/user-attachments/assets/b9b1fd65-5c59-4bb0-85f7-4a37d9c03fe7" />
 
+## 16. Delete the Cloudwatch logs if you need to.
 
+<img width="1802" height="450" alt="16" src="https://github.com/user-attachments/assets/b8b3e684-54ba-407a-900d-c5273ea42191" />
 
+## 17. Use the "terraform destroy" command to delete the Golang program.
 
-
-
-
-
+<img width="1262" height="280" alt="17" src="https://github.com/user-attachments/assets/68701e67-e52a-4a1d-a84e-a16c86e9f6d4" />
